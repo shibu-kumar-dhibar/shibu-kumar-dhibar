@@ -42,6 +42,5 @@ My goal is to build a strong foundation in Information Technology, develop my pr
 
 ## Connect with Me
 
-- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/
-shibu-kumar-dhibar-222501436)
--
+- LinkedIn: 
+www.linkedin.com/in/shibu-kumar-dhibar-222501436
