@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Shibu Kumar Dhibar 👋
 
-<!--
-**shibu-kumar-dhibar/shibu-kumar-dhibar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year B.Tech Information Technology Student
 
-Here are some ideas to get you started:
+I'm a beginner in programming and technology, currently building my foundation in computer science and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new things, exploring technology, and improving my programming skills step by step.
+
+## About Me
+
+- 🎓 B.Tech student in Information Technology
+- 💻 Learning programming fundamentals
+- 🌱 Interested in software development and IT
+- 📚 Exploring different areas of technology
+- 🚀 Working towards building my first projects
+
+## Skills
+
+- C Programming (Basics)
+- Java (Beginner)
+- MS Word
+- MS Excel
+- MS PowerPoint
+
+## Currently Learning
+
+- C Programming
+- Java
+- Problem Solving
+- Computer Science Fundamentals
+
+## Interests
+
+- Software Development
+- Information Technology
+- Programming
+- Exploring New Technologies
+
+## Career Goals
+
+My goal is to build a strong foundation in Information Technology, develop my programming skills, and grow towards a career in software development and engineering.
+
+## Connect with Me
+
+- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/
+shibu-kumar-dhibar-222501436)
+-
